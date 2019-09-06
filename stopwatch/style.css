@@ -1,0 +1,28 @@
+.container{
+    height:300px;
+    width:100%;
+}
+#display{
+    width:100%;
+    font-size:72;
+    text-align:center;
+    margin:50px 0px ;
+}
+.buttons{
+    text-align:center;
+}
+body{
+    background-color:rgb(115, 185, 162);
+}
+#startstop{
+    width:100px;
+    height:50px;
+    color:blue;
+    background-color:red;
+}
+#reset{
+    width:100px;
+    height:50px;
+    background-color:purple;
+    color:yellow;
+}
